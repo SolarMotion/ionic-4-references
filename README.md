@@ -5,3 +5,6 @@ https://devdactic.com/ionic-4-login-angular/
 
 2. Global alert box and loading box<br/>
 https://stackoverflow.com/questions/49191016/what-is-the-ionic2-best-practice-to-show-loading-alerts-and-logs
+
+3. Basic forms<br/>
+https://www.joshmorony.com/advanced-forms-validation-in-ionic-2/
