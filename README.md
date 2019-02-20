@@ -8,3 +8,6 @@ https://stackoverflow.com/questions/49191016/what-is-the-ionic2-best-practice-to
 
 3. Basic forms<br/>
 https://www.joshmorony.com/advanced-forms-validation-in-ionic-2/
+
+4. Accessing RESTful api<br/>
+https://www.djamware.com/post/5b5cffaf80aca707dd4f65aa/building-crud-mobile-app-using-ionic-4-angular-6-and-cordova
