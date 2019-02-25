@@ -16,3 +16,6 @@ https://www.djamware.com/post/5b5cffaf80aca707dd4f65aa/building-crud-mobile-app-
 5. Creating customer pipe<br/>
 https://medium.com/@riccardopolacci/angular-custom-pipes-best-practices-3de9ca77f01b
 
+6. Basic Ionic Search Bar filter<br/>
+https://www.joshmorony.com/high-performance-list-filtering-in-ionic-2/
+
