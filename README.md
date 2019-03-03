@@ -19,3 +19,5 @@ https://medium.com/@riccardopolacci/angular-custom-pipes-best-practices-3de9ca77
 6. Basic Ionic Search Bar filter<br/>
 https://www.joshmorony.com/high-performance-list-filtering-in-ionic-2/
 
+7. Cascading dropdownlist<br/>
+https://www.talkingdotnet.com/cascading-dropdown-select-list-using-angular-js-2/
